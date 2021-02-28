@@ -1,2 +1,2 @@
 # Proffy
-Porffy by Kristyan
+Proffy by Kristyan
